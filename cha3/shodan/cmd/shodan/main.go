@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"cha3/shodan/shodan" // Should be something like this instead "github.com/blackhat-go/bhg/ch-3/shodan/shodan"
+	"blackhat-go/cha3/shodan/shodan"
 )
 
 func main() {
