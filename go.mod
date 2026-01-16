@@ -15,6 +15,7 @@ require (
 	github.com/miekg/dns v1.1.68 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/urfave/negroni v1.0.0 // indirect
+	github.com/yuin/gopher-lua v1.1.1 // indirect
 	golang.org/x/crypto v0.45.0 // indirect
 	golang.org/x/mod v0.24.0 // indirect
 	golang.org/x/net v0.47.0 // indirect
