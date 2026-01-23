@@ -12,7 +12,9 @@ require (
 	github.com/google/gopacket v1.1.19 // indirect
 	github.com/gorilla/mux v1.8.1 // indirect
 	github.com/gorilla/websocket v1.5.3 // indirect
+	github.com/joeljunstrom/go-luhn v0.0.0-20190413165225-1e071b33b576 // indirect
 	github.com/miekg/dns v1.1.68 // indirect
+	github.com/pkg/errors v0.9.1 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/urfave/negroni v1.0.0 // indirect
 	github.com/yuin/gopher-lua v1.1.1 // indirect
