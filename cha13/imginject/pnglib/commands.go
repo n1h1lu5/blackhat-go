@@ -2,6 +2,7 @@ package pnglib
 
 import (
 	"blackhat-go/cha13/imginject/models"
+	"blackhat-go/cha13/imginject/utils"
 	"bytes"
 	"encoding/binary"
 	"encoding/hex"
